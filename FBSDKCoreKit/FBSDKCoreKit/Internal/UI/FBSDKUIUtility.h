@@ -20,7 +20,7 @@
 
 #import <FBSDKCoreKit/FBSDKMacros.h>
 
-#import "../FBSDKMath.h"
+#import "FBSDKMath.h"
 
 /*!
  @abstract Insets a CGSize with the insets in a UIEdgeInsets.
