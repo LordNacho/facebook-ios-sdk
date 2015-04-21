@@ -20,9 +20,9 @@
 
 #import <FBSDKCoreKit/FBSDKApplicationDelegate.h>
 
-#import "BridgeAPI/FBSDKBridgeAPIRequest.h"
-#import "BridgeAPI/FBSDKBridgeAPIResponse.h"
-#import "BridgeAPI/FBSDKURLOpening.h"
+#import "FBSDKBridgeAPIRequest.h"
+#import "FBSDKBridgeAPIResponse.h"
+#import "FBSDKURLOpening.h"
 
 @class FBSDKApplicationCall;
 
